@@ -1,6 +1,6 @@
 # Netflix-Movie-Data-Analysis-
 
- Project Overview
+📌 Project Overview
 
 This project analyzes a dataset of 10,000 Netflix movies using Python, Pandas, NumPy, Matplotlib, and Seaborn. The aim is to explore trends in genres, popularity scores, release years, and overall movie characteristics through Exploratory Data Analysis (EDA).
 
@@ -44,6 +44,7 @@ OR install manually:
 pip install pandas numpy seaborn matplotlib
 
 4. Open the project
+
 ✔ Option A – Jupyter Notebook
 jupyter notebook
 Open the file: netflix_analysis.ipynb
