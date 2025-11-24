@@ -62,8 +62,12 @@ Run all cells online
 📈 Features
 
 Genre frequency analysis
+
 Popularity score distribution
+
 Highest & lowest voted movies
+
 Year-wise release trends
+
 Clean and visually appealing graphs
 
